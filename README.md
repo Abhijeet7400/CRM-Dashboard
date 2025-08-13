@@ -11,7 +11,7 @@ This dashboard delivers real-time client activity insights, KPI tracking, and mu
 
 ## DATA
 
-![DASHBORD_SAMPLE_DATA](https://github.com/Abhijeet7400/CRM-Dashboard/blob/main/4th%20dash%20image%202.png)
+![DASHBORD_SAMPLE_DATA](https://github.com/Abhijeet7400/CRM-Dashboard/blob/main/4th%20dash%20data.png)
 
 ## 🚀 Features
 
