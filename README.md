@@ -20,29 +20,29 @@ This dashboard delivers real-time client activity insights, KPI tracking, and mu
 
 ### 🔄 Interactive Elements
 
-**Year Selection Buttons –** Instantly switch between multiple years (2022–2025) for trend analysis.
-**Light/Dark Mode Toggle –** Switch between day and night modes for improved visibility and preference.
-**Dynamic Chart Updates –** All charts and KPIs update automatically based on selected filters.
+- **Year Selection Buttons –** Instantly switch between multiple years (2022–2025) for trend analysis.
+- **Light/Dark Mode Toggle –** Switch between day and night modes for improved visibility and preference.
+- **Dynamic Chart Updates –** All charts and KPIs update automatically based on selected filters.
 
 ### 📊 KPI Tracking
 
-**Customer Engagement –** % score indicating how active your customers are.
-**Relationship Strength –** % score showing client relationship quality.
-**Management Efficiency –** % score reflecting operational performance.
+- **Customer Engagement –** % score indicating how active your customers are.
+- **Relationship Strength –** % score showing client relationship quality.
+- **Management Efficiency –** % score reflecting operational performance.
 
 ### 🧭 Navigation Shortcuts
 
 Easy to integrate with additional CRM sheets like:
-Client Database
-Sales Pipeline
-Customer Feedback & Support Logs
+- Client Database
+- Sales Pipeline
+- Customer Feedback & Support Logs
 
 ### 🛠️ Tech Stack
 
-Microsoft Excel (2016 or later)
-Pivot Tables & Charts
-Conditional Formatting
-Data Validation & Named Ranges
-Optional VBA Macros
-Theme switching automation (Day/Night mode)
-Yearly data view filtersriven visuals and automated insights.
+**Microsoft Excel (2016 or later)**
+- Pivot Tables & Charts
+- Conditional Formatting
+- Data Validation & Named Ranges
+**Optional VBA Macros**
+- Theme switching automation (Day/Night mode)
+- Yearly data view filtersriven visuals and automated insights.
