@@ -3,11 +3,15 @@
 An advanced and interactive **Customer Relationship Management (CRM)** Dashboard built in Microsoft Excel.
 This dashboard delivers real-time client activity insights, KPI tracking, and multi-year trend analysis, all in a clean and professional interface.
 
-#### DASHBORD
+## DASHBORD
 
 ![DASHBORD](https://github.com/Abhijeet7400/CRM-Dashboard/blob/main/4th%20dash%20image%201.png)
 
 ![DASHBORD](https://github.com/Abhijeet7400/CRM-Dashboard/blob/main/4th%20dash%20image%202.png)
+
+## DATA
+
+![DASHBORD_SAMPLE_DATA](https://github.com/Abhijeet7400/CRM-Dashboard/blob/main/4th%20dash%20image%202.png)
 
 ## 🚀 Features
 
