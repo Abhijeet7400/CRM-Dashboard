@@ -8,10 +8,6 @@ A comprehensive and interactive **CRM Dashboard** built using Microsoft Excel, d
 
 ![DASHBORD](https://github.com/Abhijeet7400/CRM-Dashboard/blob/main/4th%20dash%20image%202.png)
 
-![DASHBORD](https://github.com/Abhijeet7400/CRM-Dashboard/blob/main/4th%20dash%20image%203%20client%20structure.png)
-
-![DASHBORD]()
-
 Dashboard Highlights
 **Client Analytics:** Track monthly trends for Active Clients, Average Clients, New Clients, and Regular Clients.
 **KPI Monitoring:** Visualize live Customer Satisfaction, Relationship, and Management performance indicators.
