@@ -43,7 +43,7 @@ Easy to integrate with additional CRM sheets like:
 - Pivot Tables & Charts
 - Conditional Formatting
 - Data Validation & Named Ranges
-- 
+
 **Optional VBA Macros**
 - Theme switching automation (Day/Night mode)
 - Yearly data view filtersriven visuals and automated insights.
