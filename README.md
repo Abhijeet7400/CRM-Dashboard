@@ -13,10 +13,10 @@ This dashboard delivers real-time client activity insights, KPI tracking, and mu
 
 ### 📈 Dashboard Insights
 
-**Customer Activity Trends –** Tracks monthly performance of Active Clients and Average Clients with interactive line charts.
-**New vs Regular Clients –** Visual breakdown of client acquisition patterns using stacked bar charts.
-**Customer, Relationship & Management KPIs –** Percentage indicators to monitor overall CRM health.
-**Points of Sale Analysis –** Radar chart comparing Cost vs KPI performance for different sales points.
+- **Customer Activity Trends –** Tracks monthly performance of Active Clients and Average Clients with interactive line charts.
+- **New vs Regular Clients –** Visual breakdown of client acquisition patterns using stacked bar charts.
+- **Customer, Relationship & Management KPIs –** Percentage indicators to monitor overall CRM health.
+- **Points of Sale Analysis –** Radar chart comparing Cost vs KPI performance for different sales points.
 
 ### 🔄 Interactive Elements
 
