@@ -1,10 +1,10 @@
-# CRM Dashboard in Excel
+# 🗂️ CRM Dashboard in Excel
 
 A comprehensive and interactive **CRM Dashboard** built using Microsoft Excel, designed to visualize and analyze key customer relationship metrics and business performance indicators over multiple years.
 
 #### DASHBORD
 
-![DASHBORD](https://(https://github.com/Abhijeet7400/CRM-Dashboard/blob/main/4th%20dash%20image%201.png)
+![DASHBORD](https://(https://github.com/Abhijeet7400/CRM-Dashboard/blob/main/4th dash image 1.png)
 
 Dashboard Highlights
 **Client Analytics:** Track monthly trends for Active Clients, Average Clients, New Clients, and Regular Clients.
@@ -25,7 +25,7 @@ Dynamic data updates as underlying Excel tables are modified
 Year selector to filter and explore data across multiple years
 User-friendly design to facilitate smooth navigation and analysis
 
-### Tech Stack
+### 🛠️ Tech Stack
 Microsoft Excel (2016 or later) featuring:
 Pivot tables and charts
 Conditional formatting
