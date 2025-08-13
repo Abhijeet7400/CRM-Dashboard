@@ -1,20 +1,35 @@
-CRM Dashboard
-![CRM Dashboard project presents a comprehensive CRM Dashboard built using Microsoft Excel, designed to visualize and analyze key customer relationship metrics and business performance indicators across multiple years (2022-2025).
-![CRM Dashboard Overview](images/4th dash image 1.jpg)
-![CRM Dashboard Overview](images/4th dash image 2.jpg)
-Features
-Client Analytics: Displays monthly trends for Active Clients, Average Clients, New Clients, and Regular Clients to track customer engagement and retention.
+# CRM Dashboard in Excel
 
-KPI Monitoring: Live visualizations for Customer Satisfaction, Relationship, and Management rates enable easy assessment of business health.
+A comprehensive and interactive **CRM Dashboard** built using Microsoft Excel, designed to visualize and analyze key customer relationship metrics and business performance indicators over multiple years.
 
-Points of Sale Insights: Radar charts compare performance and costs across different sales points, facilitating deeper process optimization.
+#### DASHBORD
 
-Data-Driven Visualization: Interactive charts and graphs provide a clear, actionable overview for business stakeholders.
+![DASHBORD](https://raw.githubusercontent.com/amitpachpute2510/Employee_Attendance_Dashboard_in_Excel/refs/heads/main/dashboard_preview.JPG)
+Dashboard Highlights
+**Client Analytics:** Track monthly trends for Active Clients, Average Clients, New Clients, and Regular Clients.
+**KPI Monitoring:** Visualize live Customer Satisfaction, Relationship, and Management performance indicators.
+**Point of Sale Insights:** Radar charts compare performance and costs across sales points for strategic improvements.
+**Data Visualization:** Interactive charts and graphs provide clear, actionable insights for stakeholders.
+**Year Filtering:** Easily switch between years 2022 to 2025 to analyze historical and current data trends.
 
-Year Selector: Filter dashboard data across different years to analyze historical performance and trends.
+## 🚀Features
 
-Screenshots
-The dashboard image above highlights the dynamic reporting capabilities, including client structure analysis, key performance indicators, and cost breakdowns. The intuitive design ensures insights can be quickly gleaned and acted upon.
+### 📊Dashboard Insights
+Detailed client structure analysis with multiple client segments
+Key performance indicators displayed for quick health checks
+Cost and sales point comparisons with radar charts for in-depth insights
 
-Usage
-This dashboard is ideal for managers and analysts seeking a robust tool for customer management, sales analysis, and strategic decision-making—all powered by Excel’s familiar functionalities.
+### Data-Driven Automation
+Dynamic data updates as underlying Excel tables are modified
+Year selector to filter and explore data across multiple years
+User-friendly design to facilitate smooth navigation and analysis
+
+### Tech Stack
+Microsoft Excel (2016 or later) featuring:
+Pivot tables and charts
+Conditional formatting
+
+### Data validation and named ranges
+Interactive Excel formulas and charting for dynamic reporting
+This Excel-based CRM Dashboard offers managers and analysts a powerful, easy-to-use tool for monitoring client engagement and business performance through interactive, data-driven visuals and automated insights.
+
