@@ -4,7 +4,7 @@ A comprehensive and interactive **CRM Dashboard** built using Microsoft Excel, d
 
 #### DASHBORD
 
-![DASHBORD](https://(https://github.com/Abhijeet7400/CRM-Dashboard/blob/main/4th dash image 1.png)
+![DASHBORD](https://"C:\Users\Abhishek gupta\Downloads\4th dash image 1.png")
 
 Dashboard Highlights
 **Client Analytics:** Track monthly trends for Active Clients, Average Clients, New Clients, and Regular Clients.
