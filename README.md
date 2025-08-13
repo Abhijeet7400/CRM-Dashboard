@@ -1,7 +1,7 @@
 CRM Dashboard
 ![CRM Dashboard project presents a comprehensive CRM Dashboard built using Microsoft Excel, designed to visualize and analyze key customer relationship metrics and business performance indicators across multiple years (2022-2025).
-![CRM Dashboard Overview](images/4th-dash-image-1.jpg)
-![CRM Dashboard Overview](images/4th-dash-image-2.jpg)
+![CRM Dashboard Overview](images/4th dash image 1.jpg)
+![CRM Dashboard Overview](images/4th dash image 2.jpg)
 Features
 Client Analytics: Displays monthly trends for Active Clients, Average Clients, New Clients, and Regular Clients to track customer engagement and retention.
 
